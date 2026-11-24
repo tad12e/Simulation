@@ -1,0 +1,6 @@
+{
+  "name": "RF CommLab — AM & FM Radio Communication Simulator",
+  "description": "Interactive telecommunications engineering laboratory for numerical AM and FM modulation, AWGN channel simulation, FM threshold analysis, and mathematical validation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
